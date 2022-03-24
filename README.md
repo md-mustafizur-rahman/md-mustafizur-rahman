@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [KidBook](https://play.google.com/store/apps/details?id=com.dreamzoneit.kidbook.it)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **PHP**
 
-- 👯 I’m looking to collaborate on **PHP**
+- 👯 I’m looking to collaborate on **Web and android app development**
 
-- 🤝 I’m looking for help with **JS**
+- 🤝 I’m looking for help with **Internship**
 
 - 👨‍💻 All of my projects are available at [https://www.mustafizur.tk/](https://www.mustafizur.tk/)
 
