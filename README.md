@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web and android app development**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for **Internship**
 
 - 👨‍💻 All of my projects are available at [https://www.mustafizur.tk/](https://www.mustafizur.tk/)
 
