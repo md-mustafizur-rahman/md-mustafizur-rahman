@@ -14,15 +14,15 @@
 
 - 🤝 I’m looking for **Internship**
 
-- 👨‍💻 All of my projects are available at [https://www.mustafizur.tk/](https://www.mustafizur.tk/)
+- 👨‍💻 All of my projects are available at [https://md-mustafizur-rahman.github.io/resume/)
 
-- 📝 I regularly write articles on [https://www.mustafizur.tk/](https://www.mustafizur.tk/)
+- 📝 I regularly write articles on [https://md-mustafizur-rahman.github.io/resume/](https://md-mustafizur-rahman.github.io/resume/)
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **mustafizur.se@gmail.com**
 
-- 📄 Know about my experiences [https://www.mustafizur.tk/](https://www.mustafizur.tk/)
+- 📄 Know about my experiences [https://md-mustafizur-rahman.github.io/resume/](https://md-mustafizur-rahman.github.io/resume/)
 
 - ⚡ Fun fact **I am Funny**
 
