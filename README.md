@@ -16,13 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [https://md-mustafizur-rahman.github.io/resume/)
 
-- 📝 I regularly write articles on [https://md-mustafizur-rahman.github.io/resume/](https://md-mustafizur-rahman.github.io/resume/)
+- 📝 I regularly write articles on [https://md-mustafizur-rahman.github.io/portfolio/](https://md-mustafizur-rahman.github.io/portfolio/)
 
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **mustafizur.se@gmail.com**
 
-- 📄 Know about my experiences [https://md-mustafizur-rahman.github.io/resume/](https://md-mustafizur-rahman.github.io/resume/)
+- 📄 Know about my experiences [https://md-mustafizur-rahman.github.io/portfolio/](https://md-mustafizur-rahman.github.io/portfolio/)
 
 - ⚡ Fun fact **I am Funny**
 
